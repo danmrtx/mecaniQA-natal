@@ -5,7 +5,12 @@ Trabalho sobre uma mecanica onde os nossos clientes (donos de oficinas e auto ce
 Participantes:
  
 André Valter Menezes Leite
+
 Daniel Queiroga Santana Martins
+
 João Roberto Santos Cardoso
+
 Pedro Henrique Freitas Couto
+
 Victor Tadeu Augusto
+
