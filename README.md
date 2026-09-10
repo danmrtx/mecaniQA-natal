@@ -4,11 +4,14 @@ Trabalho sobre uma mecanica onde os nossos clientes (donos de oficinas e auto ce
 
 Participantes:
  
-André Valter Menezes Leite
 
 Daniel Queiroga Santana Martins
 
 Gabriel de Souza Nascimento
+
+Ian da Silva Borges
+
+Igor sena hagge
 
 João Roberto Santos Cardoso
 
